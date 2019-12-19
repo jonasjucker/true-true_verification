@@ -8,8 +8,6 @@ else
     echo Enter period, "ref exp1 exp2 ..."!
     exit
 fi
-echo condition in movero-ch-GLOB is on!!!!!
-echo CLCT-extraction of CLCT from mod is per gridpoint, not diskaverage as usual!!
 
 
 if [ $period = period1 ];
